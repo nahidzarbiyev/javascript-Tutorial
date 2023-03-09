@@ -1,0 +1,12 @@
+console.log(2+3);
+console.log(2*3);
+console.log(2/3);
+console.log(2-3);
+console.log(2**3);
+console.log(typeof("string"));
+console.log(typeof(7));
+console.log(typeof(true));
+console.log(typeof(null));
+console.log(typeof([]));
+console.log(typeof(NaN));
+console.log(typeof(undefined));
